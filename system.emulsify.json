@@ -7,7 +7,14 @@
       "platform": "drupal",
       "structureImplementations": [],
       "directories": [],
-      "files": [],
+      "files": [
+        {
+          "name": "test file",
+          "path": "./COMPONENTS.md",
+          "destinationPath": "./COMPONENTS.md",
+          "description": "Test components readme."
+        }
+      ],
       "components": []
     }
   ]
