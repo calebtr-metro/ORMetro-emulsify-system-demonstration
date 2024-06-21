@@ -1,8 +1,7 @@
 {
   "name": "emulsify-system-demonstration",
   "homepage": "https://github.com/calebtr-metro/emulsify-system-demonstration",
-  "repository": "git@github.com:calebtr-metro/emulsify-system-demonstration.git",
-  "uri": "https://github.com/calebtr-metro/emulsify-system-demonstration",
+  "repository": "https://github.com/calebtr-metro/emulsify-system-demonstration",
   "structure": [],
   "variants": [
     {
