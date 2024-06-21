@@ -1,0 +1,14 @@
+{
+  "name": "emulsify-system-demonstration",
+  "repository": "git@github.com:calebtr-metro/emulsify-system-demonstration.git",
+  "structure": [],
+  "variants": [
+    {
+      "platform": "drupal",
+      "structureImplementations": [],
+      "directories": [],
+      "files": [],
+      "components": []
+    }
+  ]
+}
